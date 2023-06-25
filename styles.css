@@ -1,0 +1,28 @@
+
+body {
+    background-color: rgb(54, 68, 81);
+}
+    
+h1, h2 {
+    color: #392727;
+    text-decoration: underline;
+  }
+main {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+#my-animals li {
+    cursor: pointer;
+    padding: 10px;
+    border: 1px solid black;
+    margin-bottom: 5px;
+  }#animal-details h2 {
+    font-size: 18px;
+    margin-top: 10px;
+  }
+  #votes {
+    padding: 5px 10px;
+    border: 1px solid black;
+    cursor: pointer;
+  }
